@@ -10,7 +10,7 @@ Venmo is a peer-to-peer (P2P) mobile payment app owned by PayPal. The Venmo app 
      3. For each user, create a variable to indicate their spending behavior profile. 
      4. Explore how a user’s spending profile is evolving over her lifetime in Venmo.
 ## Dataset Description
-     - Dataset is provided by Dan Salmon from Github [Link - https://github.com/sa7mon/venmo-data]
+     - Dataset is available in GitHub [Link - https://github.com/sa7mon/venmo-data]
      - The dataset contains over 7 million transaction records.
 ## Approaches
      - Classify Transactions
