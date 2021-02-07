@@ -17,3 +17,16 @@ Venmo is a peer-to-peer (P2P) mobile payment app owned by PayPal. The Venmo app 
      - Exploractory Data Analysis
      - Create Static User Spending Behavior Profile
      - Create Dynamic User Spending Behavior Profile
+     
+## Dataset Preview
+<img src = "dataset_preview.png">
+
+## Emoji Classification
+<img src = "Emoji_classification_dict.png">
+
+## Percentage of Emoji Transactions
+<img src = "Percent_emoji_data.png">
+
+## Customer Spent Profile
+<img src = "Spent_profile.png">
+
